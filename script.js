@@ -6,4 +6,4 @@ document.querySelectorAll(".owner-name").forEach((e) => {
 });
 
 document.querySelector("#github").href = "http://github.com/" + userName;
-document.querySelector("#fork").href = https://replit.com/@angela1251/movie-comedy#style.css + userName + "/" + userName + ".github.io";
+document.querySelector("#fork").href =  + userName + "/" + userName + ".github.io";
